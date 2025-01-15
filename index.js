@@ -118,3 +118,5 @@ function palindrome(str){
 }
 
 console.log(palindrome(phraseToCheck));
+
+// test git commands
